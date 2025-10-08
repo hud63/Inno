@@ -162,8 +162,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b0cfa16efb6cdb0",
+  "active": "dc4498680fb5ea4e",
   "lastOpenFiles": [
+    "temp_vim_cmd.txt",
+    "Enrollment/Data_Analysis/PPT_Onboarding_QA_analysis.csv",
+    "Enrollment/Data_Analysis/Operations_Projections_analysis.csv",
+    "Enrollment/Data_Analysis/Enrollment_Data_Analysis_Summary.md",
+    "Enrollment/Data_Analysis/Actionable_Recommendations.md",
+    "Enrollment/Data_Analysis",
     "FMO Broker/e123 Portal/10.8 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/10.7 - 1573 Broker Portal.md",
     "Data Team/Learned_Notes.md",
