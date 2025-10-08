@@ -1,3 +1,27 @@
+  Key Insights from the Data:
+
+  Critical Risk Profile:
+  - 66.7% of participants have 3+ risk flags (high-touch, complex cases)
+  - 81.5% have fall history, 83.3% have incontinence issues
+  - Mental health crisis: 66.7% treatment gap (16/24 with diagnoses not receiving care)
+
+  Operational Imbalances:
+  - Dana Lewis handles 25.9% of all cases (14/54)
+  - Top 3 centers (Lakewood, Thornton, Denver) need 59.5% of resources
+  - 40.5% live alone (require more transportation/home support)
+
+  Data Quality Issues:
+  - Review Status and Completeness Score fields are 100% blank
+  - Non-standard responses across 15+ fields
+
+  Top 3 Immediate Actions:
+
+  1. Mental Health Intervention - Create 7-day referral pathway for 16 untreated participants
+  2. Workload Rebalancing - Redistribute 2-3 cases from overloaded specialists
+  3. Data Quality Fix - Make Review Status required and standardize responses
+
+  The analysis reveals a clinically complex, high-risk cohort requiring strategic resource allocation and immediate quality improvements.
+
 got it — I dug through both workbooks end-to-end. here’s what they are, what they’re saying, and the most useful trends I found (with numbers).
 https://chatgpt.com/c/68e66a08-de7c-8326-9cb4-bb85963e3d3a
 # what these files are (big picture)
