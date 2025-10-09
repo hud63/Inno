@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa680a170c90561",
+        "id": "2e6096e334ec05bf",
         "type": "tabs",
         "children": [
           {
-            "id": "c39ad68811318a88",
+            "id": "d3e3b59227bd4893",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "c39ad68811318a88",
+  "active": "d3e3b59227bd4893",
   "lastOpenFiles": [
+    "FMO Broker/Commission Payout Amounts Example.md",
+    "FMO Broker/e123 Portal/New Admin Training.md",
+    "FMO Broker/FMO Acronym Cheat Sheet.md",
+    "Enrollment/Power BI and Dynamics 365 Steps.md",
+    "FMO Broker/e123 Portal/10.9 - 1573 Broker Portal.md",
+    "FMO Broker/e123 Portal/10.8 - 1573 Broker Portal.md",
+    "Pasted image 20251009162827.png",
+    "Enablement/Growth Team Leadership Huddle.md",
     "WHO makes WHAT types of decisions.md",
     "Enrollment/HIGHEST LEVERAGE OPPORTUNITIES.md",
     "Enrollment/Explicit Impact Opportunities Mentioned.md",
@@ -175,7 +183,6 @@
     "Enrollment/🧭 Inside Sales Script — InnovAge PACE Program.md",
     "Enrollment/🧩 InnovAge Tech Stack.md",
     "Enrollment/🔄 Participant Enrollment Process (PPT Pipe).md",
-    "FMO Broker/FMO Acronym Cheat Sheet.md",
     "Enrollment/INNV Workflows 1.vsdx",
     "Enrollment/INNV Workflows_2025-08-27.pdf",
     "Enablement/Sales Enablement Process Roadmap.md",
@@ -192,19 +199,13 @@
     "Enrollment/Data_Analysis/Enrollment_Data_Analysis_Summary.md",
     "Enrollment/Data_Analysis/Actionable_Recommendations.md",
     "Enrollment/Data_Analysis",
-    "FMO Broker/e123 Portal/10.8 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/10.7 - 1573 Broker Portal.md",
     "Data Team/Learned_Notes.md",
     "FMO Broker/e123 Portal",
     "Enrollment/Ppt Onboarding Workgroup Series.md",
     "Enrollment/What Is DMAIC_ _ Process News.png",
     "FMO Broker/Guide_Report Configuration Working Session.md",
-    "FMO Broker/e123 Portal/1573 InnovAge Commissions Discussion _2.md",
-    "FMO Broker/Report Configuration Working Session.md",
-    "Enrollment/Enrollment Sampling Audit Take Analysis.md",
     "FMO Broker",
-    "Enrollment/CO- Operations Projections 9-30-2025 8-30-40 PM.xlsx",
-    "Enrollment/Enrollment Sampling Audit Take 2.md",
-    "Sales/Bonus Deep Dive.md"
+    "Enrollment/CO- Operations Projections 9-30-2025 8-30-40 PM.xlsx"
   ]
 }
