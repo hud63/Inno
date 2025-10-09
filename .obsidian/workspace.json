@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c0aa1c34576e595",
+        "id": "0aa680a170c90561",
         "type": "tabs",
         "children": [
           {
-            "id": "581888030560a3c8",
+            "id": "c39ad68811318a88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,15 +162,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc4498680fb5ea4e",
+  "active": "c39ad68811318a88",
   "lastOpenFiles": [
+    "WHO makes WHAT types of decisions.md",
+    "Enrollment/HIGHEST LEVERAGE OPPORTUNITIES.md",
+    "Enrollment/Explicit Impact Opportunities Mentioned.md",
+    "Enrollment/10.9 INNV Process.md",
+    "Enrollment/Enrollment Org Chart.md",
+    "Enrollment/Enrollment Acronyms.md",
+    "FMO Broker/Issues via Teams Channel.md",
+    "Enrollment/🏗️ InnovAge Workflows (Full Markdown Conversion).md",
+    "Enrollment/🧭 Inside Sales Script — InnovAge PACE Program.md",
+    "Enrollment/🧩 InnovAge Tech Stack.md",
+    "Enrollment/🔄 Participant Enrollment Process (PPT Pipe).md",
+    "FMO Broker/FMO Acronym Cheat Sheet.md",
+    "Enrollment/INNV Workflows 1.vsdx",
+    "Enrollment/INNV Workflows_2025-08-27.pdf",
+    "Enablement/Sales Enablement Process Roadmap.md",
     "Enablement/image (4).png",
     "Enablement/image (3).png",
     "Enablement/image (2).png",
     "Enablement/image (1).png",
     "Enablement/image.png",
     "Enablement",
-    "FMO Broker/Acronym Cheat Sheet.md",
     "FMO Broker/10.8 Sheri_Tony Meeting.md",
     "temp_vim_cmd.txt",
     "Enrollment/Data_Analysis/PPT_Onboarding_QA_analysis.csv",
@@ -190,11 +204,7 @@
     "Enrollment/Enrollment Sampling Audit Take Analysis.md",
     "FMO Broker",
     "Enrollment/CO- Operations Projections 9-30-2025 8-30-40 PM.xlsx",
-    "Enrollment/PPT Onboarding QA_v01_2025-10-07.xlsx",
     "Enrollment/Enrollment Sampling Audit Take 2.md",
-    "Enrollment",
-    "Sales/Bonus Deep Dive.md",
-    "Data Team/Ppt Onboarding Data-Indicators.md",
-    "Welcome.md"
+    "Sales/Bonus Deep Dive.md"
   ]
 }

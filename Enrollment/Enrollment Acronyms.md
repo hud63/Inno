@@ -1,0 +1,23 @@
+- PACE: Program of All-Inclusive Care for the Elderly — comprehensive care to keep seniors at home
+- FMO: Field Marketing Organization — intermediaries supporting insurance agents with products, compliance, and tools
+- OS: Outreach Specialist — field sales reps who prospect and generate leads
+- RSD: Regional Sales Director — leaders overseeing Outreach Specialists
+- HSD: Health & Safety Determination — internal review to ensure participant can be safe/stable at home
+- LOC: Level of Care — assessment confirming nursing-facility level need
+- LTSS: Long Term Support Services — Medicaid category required for PACE
+- CMS: Centers for Medicare & Medicaid Services — sets fair market value for commissions and regulates programs
+- MAP: Marketing Automation Platform — system for automated emails, texts, events
+- CRM: Customer Relationship Management — system of record (Microsoft Dynamics)
+- ADLs: Activities of Daily Living — functional tasks used to assess care needs
+- PCP: Primary Care Provider — the senior’s main doctor
+- LTV: Lifetime Value — estimated total value per participant (~$100K)
+- QA: Quality Assurance — monitoring and scoring of call quality
+- INVOKA: Call attribution/recording/transcription platform (capitalized as referenced)
+- Five9: Contact center telephony/click-to-call platform
+- Power BI: Microsoft analytics/dashboarding tool
+- Copilot: Microsoft AI assistant for summarization/form assist
+- LOA: Licensed Only Agent — agency-employed agent paid hourly/flat, not full commissions
+- SNF: Skilled Nursing Facility — nursing facility level of care benchmark
+- EFD (EFT in transcript variant): Eligibility & Financial Determination — team/process for Medicaid eligibility
+- AEP (implied context in insurance; not explicitly stated): Annual Enrollment Period — common insurance term (note: not directly mentioned)
+- CMS FMV: CMS Fair Market Value — standardized commission rates set by CMS
