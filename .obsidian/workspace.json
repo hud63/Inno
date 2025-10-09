@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43ec2a6774d0b8af",
+        "id": "6c0aa1c34576e595",
         "type": "tabs",
         "children": [
           {
-            "id": "5b0cfa16efb6cdb0",
+            "id": "581888030560a3c8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,6 +164,14 @@
   },
   "active": "dc4498680fb5ea4e",
   "lastOpenFiles": [
+    "Enablement/image (4).png",
+    "Enablement/image (3).png",
+    "Enablement/image (2).png",
+    "Enablement/image (1).png",
+    "Enablement/image.png",
+    "Enablement",
+    "FMO Broker/Acronym Cheat Sheet.md",
+    "FMO Broker/10.8 Sheri_Tony Meeting.md",
     "temp_vim_cmd.txt",
     "Enrollment/Data_Analysis/PPT_Onboarding_QA_analysis.csv",
     "Enrollment/Data_Analysis/Operations_Projections_analysis.csv",
@@ -187,8 +195,6 @@
     "Enrollment",
     "Sales/Bonus Deep Dive.md",
     "Data Team/Ppt Onboarding Data-Indicators.md",
-    "Welcome.md",
-    "Data Team",
-    "Sales"
+    "Welcome.md"
   ]
 }
