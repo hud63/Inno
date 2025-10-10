@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2ddfad29d96077",
+        "id": "6b76c4e1e5c0e6f6",
         "type": "tabs",
         "children": [
           {
-            "id": "fc82f67a22f1af62",
+            "id": "b688bbf7c528e62d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc82f67a22f1af62",
+  "active": "b688bbf7c528e62d",
   "lastOpenFiles": [
+    "FMO Broker/Initial FMO Trainings/Broker Team Channel & resources URL.md",
+    "FMO Broker/Initial FMO Trainings/Create a Microsoft Teams Webinar.md",
+    "FMO Broker/Initial FMO Trainings/Sales Analyst Broker Channel Support Call.md",
+    "FMO Broker/Initial FMO Trainings/Preparation_Sales Analyst Broker Channel Support Call.md",
+    "FMO Broker/Initial FMO Trainings",
+    "Strategic Initiatives/10.10 Draft_Inside Sales.md",
+    "FMO Broker/e123 Portal/Lead Entry.md",
+    "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
     "Project Assets/PPT Onboarding QA_v01_2025-10-07.xlsx",
     "Project Assets/INNV Workflows 1.vsdx",
     "Project Assets/CO- Operations Projections 9-30-2025 8-30-40 PM.xlsx",
@@ -184,8 +192,6 @@
     "FMO Broker/Commissions",
     "FMO Broker/Report Config",
     "Strategic Initiatives",
-    "Project Assets",
-    "Exec Leadership",
     "Enrollment/Field Sales/Bonus Deep Dive.md",
     "Project Assets/What Is DMAIC_ _ Process News.png",
     "Enrollment/QA/Enrollment Sampling Audit Take 2.md",
@@ -198,12 +204,6 @@
     "Project Assets/Pasted image 20251009162827.png",
     "Exec Leadership/WHO makes WHAT types of decisions.md",
     "Strategic Initiatives/HIGHEST LEVERAGE OPPORTUNITIES.md",
-    "Strategic Initiatives/Explicit Impact Opportunities Mentioned.md",
-    "Enrollment/Process/10.9 INNV Process.md",
-    "FMO Broker/Commissions/Issues via Teams Channel.md",
-    "Enrollment/Process/🏗️ InnovAge Workflows (Full Markdown Conversion).md",
-    "Enrollment/Process/🧭 Inside Sales Script — InnovAge PACE Program.md",
-    "Terminology/🧩 InnovAge Tech Stack.md",
     "Project Assets/image (4).png",
     "Project Assets/image (3).png",
     "Project Assets/image (2).png"
