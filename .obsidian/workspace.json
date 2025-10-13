@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2cce5b6d99bcf4",
+        "id": "632ffe3e1a4f80fe",
         "type": "tabs",
         "children": [
           {
-            "id": "1cfef2db221dad37",
+            "id": "afce65e286759f38",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1cfef2db221dad37",
+  "active": "afce65e286759f38",
   "lastOpenFiles": [
+    "FMO Broker/e123 Portal/Agent Overview.md",
+    "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
     "FMO Broker/Initial FMO Trainings/Broker 2.0 Summary.md",
     "Broker 2.0/readme",
     "Broker 2.0/InnovAge-Presentation-FMO-July-2025 (July 7th from RZ).pptx",
@@ -184,7 +186,6 @@
     "FMO Broker/Initial FMO Trainings/Sales Analyst Broker Channel Support Call.md",
     "FMO Broker/Initial FMO Trainings/Preparation_Sales Analyst Broker Channel Support Call.md",
     "FMO Broker/e123 Portal/Lead Entry.md",
-    "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
     "Enrollment/Enrollment Org Chart.md",
     "Enrollment/QA/Learned_Notes.md",
     "Enablement/Sales Enablement Process Roadmap.md",
