@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "632ffe3e1a4f80fe",
+        "id": "7d4babab168ef5b5",
         "type": "tabs",
         "children": [
           {
-            "id": "afce65e286759f38",
+            "id": "42220f94132ac240",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FMO Broker/e123 Portal/Email Issue Summary 10.14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Email Issue Summary 10.14"
             }
           }
         ]
@@ -162,8 +166,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "afce65e286759f38",
+  "active": "42220f94132ac240",
   "lastOpenFiles": [
+    "RevOps/Rev Ops Team Meeting 10.14.md",
+    "FMO Broker/e123 Portal/Email Issue Summary 10.14.md",
+    "RevOps",
+    "FMO Broker/Report Config/Guide_Report Configuration Working Session.md",
+    "FMO Broker/Report Config/Report Configuration Working Session.md",
+    "FMO Broker/Initial FMO Trainings/Steven Mezidor.md",
+    "FMO Broker/Weekly Trainings/10.14 updates.md",
+    "FMO Broker/Weekly Trainings",
     "FMO Broker/e123 Portal/Agent Overview.md",
     "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
     "FMO Broker/Initial FMO Trainings/Broker 2.0 Summary.md",
@@ -175,8 +187,6 @@
     "Broker 2.0/InnovAge Email Templates.docx",
     "Broker 2.0/FMO-Rollouts.xlsx",
     "Broker 2.0/FMO Implementation Call Info.pdf",
-    "Broker 2.0/FMO Event Deck 2025_AH2.pptx",
-    "Broker 2.0/FMO & Agent Overview.pdf",
     "Enrollment/Process/10.9 INNV Process.md",
     "Strategic Initiatives/HIGHEST LEVERAGE OPPORTUNITIES.md",
     "Strategic Initiatives/Explicit Impact Opportunities Mentioned.md",
@@ -196,13 +206,7 @@
     "Enrollment/Process/Power BI and Dynamics 365 Steps.md",
     "Enrollment/Process/🔄 Participant Enrollment Process (PPT Pipe).md",
     "FMO Broker/Commissions/1573 InnovAge Commissions Discussion _2.md",
-    "Terminology/Enrollment Acronyms.md",
-    "Enrollment/Field Sales/Bonus Deep Dive.md",
     "Project Assets/What Is DMAIC_ _ Process News.png",
-    "Enrollment/QA/Enrollment Sampling Audit Take 2.md",
-    "Enrollment/QA/Enrollment Sampling Audit Take Analysis.md",
-    "FMO Broker/Commissions/Commission Payout Amounts Example.md",
-    "FMO Broker/e123 Portal/New Admin Training.md",
     "Project Assets/Pasted image 20251009162827.png",
     "Project Assets/image (4).png",
     "Project Assets/image (3).png",
