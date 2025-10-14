@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d4babab168ef5b5",
+        "id": "3bd5a14f0d47703d",
         "type": "tabs",
         "children": [
           {
-            "id": "42220f94132ac240",
+            "id": "d85fe6df799c2f75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FMO Broker/e123 Portal/Email Issue Summary 10.14.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Email Issue Summary 10.14"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 252.5
   },
   "right": {
     "id": "d79310089b65afac",
@@ -166,19 +162,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "42220f94132ac240",
+  "active": "d85fe6df799c2f75",
   "lastOpenFiles": [
+    "FMO Broker/e123 Portal/Email Issues Summary 10.14.md",
+    "FMO Broker/e123 Portal/New Admin Training 2.md",
+    "FMO Broker/e123 Portal/New Admin Training 1.md",
+    "FMO Broker/Report Config/Report Configuration Working Session.md",
+    "FMO Broker/e123 Portal/10.9 - 1573 Broker Portal.md",
+    "FMO Broker/Initial FMO Trainings/Broker 2.0 Summary.md",
+    "FMO Broker/Initial FMO Trainings/10.8 Sheri_Tony Meeting.md",
+    "FMO Broker/Initial FMO Trainings/Preparation_Sales Analyst Broker Channel Support Call.md",
+    "FMO Broker/Initial FMO Trainings/Sales Analyst Broker Channel Support Call.md",
+    "FMO Broker/e123 Portal/10.8 - 1573 Broker Portal.md",
+    "FMO Broker/e123 Portal/Broker Portal Training Sheri 10.14.md",
+    "FMO Broker/e123 Portal/BrokerSupport call 10.14.md",
+    "FMO Broker/e123 Portal/Lead Entry.md",
+    "FMO Broker/e123 Portal/Script - Broker Portal Training.md",
+    "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
+    "FMO Broker/Initial FMO Trainings/Broker Team Channel & resources URL.md",
+    "FMO Broker/e123 Portal/Agent Overview.md",
+    "Enrollment/Process/HSD - Clinical Score - Enrolled Requirements.md",
+    "Project Assets/Logins A-Rod.md",
+    "Strategic Initiatives/10.10 Draft_Inside Sales Playbook 2.0.md",
+    "Strategic Initiatives/High-Impact, Low-Effort Strategies.md",
     "RevOps/Rev Ops Team Meeting 10.14.md",
-    "FMO Broker/e123 Portal/Email Issue Summary 10.14.md",
     "RevOps",
     "FMO Broker/Report Config/Guide_Report Configuration Working Session.md",
-    "FMO Broker/Report Config/Report Configuration Working Session.md",
     "FMO Broker/Initial FMO Trainings/Steven Mezidor.md",
     "FMO Broker/Weekly Trainings/10.14 updates.md",
     "FMO Broker/Weekly Trainings",
-    "FMO Broker/e123 Portal/Agent Overview.md",
-    "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
-    "FMO Broker/Initial FMO Trainings/Broker 2.0 Summary.md",
     "Broker 2.0/readme",
     "Broker 2.0/InnovAge-Presentation-FMO-July-2025 (July 7th from RZ).pptx",
     "Broker 2.0/InnovAge-Broker-Handbook-2025.pdf",
@@ -188,24 +200,8 @@
     "Broker 2.0/FMO-Rollouts.xlsx",
     "Broker 2.0/FMO Implementation Call Info.pdf",
     "Enrollment/Process/10.9 INNV Process.md",
-    "Strategic Initiatives/HIGHEST LEVERAGE OPPORTUNITIES.md",
-    "Strategic Initiatives/Explicit Impact Opportunities Mentioned.md",
-    "Strategic Initiatives/10.10 Draft_Inside Sales.md",
-    "FMO Broker/Initial FMO Trainings/Broker Team Channel & resources URL.md",
-    "FMO Broker/Initial FMO Trainings/Create a Microsoft Teams Webinar.md",
-    "FMO Broker/Initial FMO Trainings/Sales Analyst Broker Channel Support Call.md",
-    "FMO Broker/Initial FMO Trainings/Preparation_Sales Analyst Broker Channel Support Call.md",
-    "FMO Broker/e123 Portal/Lead Entry.md",
-    "Enrollment/Enrollment Org Chart.md",
-    "Enrollment/QA/Learned_Notes.md",
-    "Enablement/Sales Enablement Process Roadmap.md",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
-    "Enablement/Growth Team Leadership Huddle.md",
-    "Enrollment/QA/Ppt Onboarding Workgroup Series.md",
-    "Enrollment/Process/Power BI and Dynamics 365 Steps.md",
-    "Enrollment/Process/🔄 Participant Enrollment Process (PPT Pipe).md",
-    "FMO Broker/Commissions/1573 InnovAge Commissions Discussion _2.md",
     "Project Assets/What Is DMAIC_ _ Process News.png",
     "Project Assets/Pasted image 20251009162827.png",
     "Project Assets/image (4).png",

@@ -1,0 +1,226 @@
+
+Tue, 14 Oct 25
+
+### Meeting Introduction & Context
+
+- Weather discussion: early winter cold, beneficial rain for fire prevention
+    
+- Platform transition: Teams vs Zoom learning curve for participants
+    
+- Meeting purpose: visual portal walkthrough, 10-15 minute training format
+    
+- Introductions:
+    
+    - Sherry: host/trainer with 28 years carrier experience
+        
+    - Mark Satollah: new InnovAge hire, sales/rev-ops/tech background
+        
+    - Mark’s direct email available in chat for broker support
+        
+
+### Broker Portal Access & Navigation
+
+- Login URL: [www.broker.innovage.com](http://www.broker.innovage.com/)
+    
+- Save to browser favorites (blue star icon)
+    
+- Welcome letter contains initial login credentials
+    
+- Recommendation: create InnovAge email folder for carrier communications
+    
+
+### Back Office Features
+
+- Profile management
+    
+    - Update address and email information
+        
+    - Self-service functionality for most updates
+        
+- Reports section
+    
+    - Enrollment status reports for application tracking
+        
+    - Book of business reports (mirrors Medicare Advantage format)
+        
+        - Member name, DOB, MBI number
+            
+        - Approval and active dates
+            
+        - Termination dates and reasons
+            
+    - Quick member snapshot available
+        
+- My Documents storage
+    
+    - InnovAge contract
+        
+    - E&O insurance
+        
+    - Insurance licenses with expiration tracking
+        
+    - Automated license expiration alerts being implemented
+        
+    - CMS compliance requirements: active license + E&O + certification for ongoing commissions
+        
+
+### Sales Resources Hub
+
+- Certification deck download
+    
+    - State-by-state ADL requirements table
+        
+    - Virginia example: 5 ADLs required via point system
+        
+    - Comprehensive eligibility guidelines
+        
+- Service area ZIP code directory
+    
+    - All 6 states with ZIP codes, cities, counties
+        
+    - Search function: Control-F for quick lookup
+        
+    - Demo example: 32703 ZIP code verification
+        
+- Broker letters (pre-approved templates)
+    
+    - Version 1: with meetings (drives clients to agent meetings)
+        
+    - Version 2: without meetings (drives clients to call agent)
+        
+    - Generic format for Medicaid/Medi-Cal book prospecting
+        
+    - InnovAge hosts member meetings at centers
+        
+        - Tour facilities, meet people
+            
+        - Transportation coordination available
+            
+        - Agent coordination through Sherry/managers
+            
+- Co-branded broker flyers
+    
+    - Two types: event flyers vs general information
+        
+    - Customizable fields: agent name, license number, phone
+        
+    - Example: Paul Burke, 916-477-0000
+        
+    - Front/back printing recommended
+        
+    - Large orders: contact Sherry for FedEx Kinkos printing service
+        
+- Broker handbook
+    
+    - Commission payment schedule
+        
+    - Annual certification requirements
+        
+    - Portal usage guidelines
+        
+    - Release policies and blackout periods
+        
+    - Agent of record procedures
+        
+    - Approved marketing materials list
+        
+    - Broker support team contacts
+        
+
+### Provider Directories
+
+- Technical issue: some uploaded as Excel files instead of PDF
+    
+- Sacramento example: problematic Excel format
+    
+- Tampa example: correct PDF format
+    
+- Covers specialists, skilled nursing facilities, long-term care, DME, renal dialysis
+    
+- Hospital contracting difference: InnovAge pays any hospital bill (no network restrictions like MAPD)
+    
+- PDF conversion in progress for all directories
+    
+
+### Broker Kit Ordering System
+
+- Physical description: thin profile (not bulky half-inch carrier kits)
+    
+- Ships in packs of 5 kits
+    
+- Default limit: 25 kits per month
+    
+- Override: contact Sherry/managers for events requiring 50+ kits
+    
+- Distribution: 25,000 pre-printed, split East Coast/West Coast centers
+    
+- Delivery: FedEx 2-3 business days
+    
+- Contents: no paper applications (online enrollment only)
+    
+- Kit messaging: “How to enroll? Contact your agent”
+    
+- Live order demo for Yvette Edgehill:
+    
+    - Orlando location selection
+        
+    - 25 kit quantity
+        
+    - Address: 2935 Candela Court, Apopka, FL 32703
+        
+    - Phone: 407-921-6340
+        
+    - Email: [yvetteedgehill@yahoo.com](mailto:yvetteedgehill@yahoo.com)
+        
+    - Order confirmation and tracking email provided
+        
+
+### Enrollment Application Process
+
+- ZIP code validation required (example: 95842 Sacramento)
+    
+- DSNP-style online application with PACE-specific ADL questions
+    
+- Required fields: name, address, phone, DOB
+    
+- Optional: email address
+    
+- Income requirements (California: flexible guidelines)
+    
+- Insurance eligibility:
+    
+    - Medicare Part A and/or B (both not required)
+        
+    - Medicaid/Medi-Cal with share of cost accepted
+        
+    - Incomplete Medicaid applications welcome (InnovAge will qualify)
+        
+    - Veterans 55+ with 70%+ disability (no Medicare/Medicaid required)
+        
+- Housing requirements: home, apartment, shared rent, boarding care
+    
+- Prohibited: assisted living facilities
+    
+- Power of attorney documentation
+    
+- ADL assessment with detailed information
+    
+- Married couples: separate applications required
+    
+- Submission generates unique confirmation ID number
+    
+
+### Event & Marketing Guidelines
+
+- No sales event filing required with InnovAge
+    
+- Restriction: no multi-carrier meetings
+    
+- Recommended kit quantity for active marketing: 50+ kits
+    
+- Stock availability: 25,000 pre-printed inventory
+    
+
+---
+
+Chat with meeting transcript: [https://notes.granola.ai/d/a63b7b70-3bb6-400b-8a23-12e4da72d925](https://notes.granola.ai/d/a63b7b70-3bb6-400b-8a23-12e4da72d925)
