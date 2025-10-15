@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36d65208b1b81168",
+        "id": "2383f973e24b9450",
         "type": "tabs",
         "children": [
           {
-            "id": "beb322be24206975",
+            "id": "01a82ec20eb35433",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "beb322be24206975",
+  "active": "dc4498680fb5ea4e",
   "lastOpenFiles": [
+    "RevOps/ServiceNow - SNOW Discussion   A-Rod.md",
+    "FMO Broker/e123 Portal/10.15 Sheri Teams Call.md",
+    "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
+    "FMO Broker/e123 Portal/Q&A.md",
     "FMO Broker/e123 Portal/Portal Training/Script - FMO Portal Training.md",
     "FMO Broker/e123 Portal/Portal Training/Script - Broker Portal Training.md",
     "FMO Broker/e123 Portal/Portal Training/10.15 FMO Broker Portal Training Sheri.md",
@@ -172,7 +176,6 @@
     "FMO Broker/Initial FMO Trainings/Ron_Sheri Broker Channel Support Call.md",
     "RevOps/10.14 Rev Ops Team Meeting.md",
     "FMO Broker/e123 Portal/Portal Training/10.14 BrokerSupport Steven_Sheri call.md",
-    "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
     "FMO Broker/e123 Portal/Lead Entry.md",
     "FMO Broker/e123 Portal/Email Issues Summary 10.14.md",
     "FMO Broker/e123 Portal/10.9 - 1573 Broker Portal.md",
@@ -188,9 +191,6 @@
     "FMO Broker/Initial FMO Trainings/Preparation_Sales Analyst Broker Channel Support Call.md",
     "FMO Broker/e123 Portal/10.8 - 1573 Broker Portal.md",
     "FMO Broker/Initial FMO Trainings/Broker Team Channel & resources URL.md",
-    "Enrollment/Process/HSD - Clinical Score - Enrolled Requirements.md",
-    "Project Assets/Logins A-Rod.md",
-    "Strategic Initiatives/10.10 Draft_Inside Sales Playbook 2.0.md",
     "RevOps",
     "FMO Broker/Weekly Trainings",
     "Broker 2.0/readme",
