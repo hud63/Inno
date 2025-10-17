@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9975a1ca5aefa581",
+        "id": "db1496c8a50154fc",
         "type": "tabs",
         "children": [
           {
-            "id": "7d3e798f8d404b60",
+            "id": "5c9e973b5563a89b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d3e798f8d404b60",
+  "active": "dc4498680fb5ea4e",
   "lastOpenFiles": [
+    "RevOps/10.17 Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
+    "FMO Broker/e123 Portal/Portal Training/New Admin Training 4.md",
+    "FMO Broker/e123 Portal/Portal Training/New Admin Training 3.md",
+    "Terminology/FMO Acronym Cheat Sheet.md",
+    "Terminology/Enrollment Acronyms.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.16 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.9 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/10.14 updates.md",
@@ -173,7 +178,6 @@
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.8 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.7 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups",
-    "FMO Broker/e123 Portal/Portal Training/New Admin Training 3.md",
     "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 2.md",
     "Enrollment/Process/BROKER CALLS IN BUT DIDN'T SUBMIT THEIR APPLICATION (e.g., THE LEAD) VIA E123 PORTAL.md",
@@ -187,10 +191,6 @@
     "FMO Broker/e123 Portal/Weekly Broker Trainings/10.14 Broker Portal Training Sheri.md",
     "FMO Broker/e123 Portal/Decision-Making & Issue Resolution Structure.md",
     "FMO Broker/Initial FMO Trainings/Ron_Sheri Broker Channel Support Call.md",
-    "RevOps/10.14 Rev Ops Team Meeting.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.14 BrokerSupport Steven_Sheri call.md",
-    "FMO Broker/e123 Portal/Email Issues Summary 10.14.md",
-    "FMO Broker/e123 Portal/Portal Training/Agent Overview.md",
     "FMO Broker/e123 Portal/Portal Training",
     "RevOps",
     "FMO Broker/e123 Portal/Weekly Broker Trainings",
