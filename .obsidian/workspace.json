@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c982ee484f41184",
+        "id": "3a5e3dd82c4b4da5",
         "type": "tabs",
         "children": [
           {
-            "id": "61bf3fb972f58e28",
+            "id": "e84576e68c3b56c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.17 Implementation Status Update (e123_InnovAge).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10.17 Implementation Status Update (e123_InnovAge)"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 257.5
   },
   "right": {
     "id": "d79310089b65afac",
@@ -166,8 +162,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "61bf3fb972f58e28",
+  "active": "e84576e68c3b56c7",
   "lastOpenFiles": [
+    "Enrollment/Process/Insights CRM Training.md",
+    "Terminology/Enrollment Acronyms.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.17 Implementation Status Update (e123_InnovAge).md",
+    "Terminology/FMO Acronym Cheat Sheet.md",
     "pptx/scripts/thumbnail.py",
     "pptx/scripts/rearrange.py",
     "pptx/scripts/replace.py",
@@ -178,18 +178,14 @@
     "pptx/ooxml/scripts/validation/redlining.py",
     "pptx/ooxml/scripts/validation/pptx.py",
     "pptx/ooxml/scripts/validation/docx.py",
-    "pptx/ooxml/scripts/validation/base.py",
     "pptx/SKILL.md",
     "pptx/ooxml.md",
     "pptx/html2pptx.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.17 Implementation Status Update (e123_InnovAge).md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/10.17 FMO Sales touchpoint.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 4.md",
     "RevOps/10.17 Revenue Operations Office Hours.md",
     "RevOps/10.17 Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 3.md",
-    "Terminology/FMO Acronym Cheat Sheet.md",
-    "Terminology/Enrollment Acronyms.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.16 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.9 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/10.14 updates.md",
@@ -201,7 +197,6 @@
     "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 2.md",
     "Enrollment/Process/BROKER CALLS IN BUT DIDN'T SUBMIT THEIR APPLICATION (e.g., THE LEAD) VIA E123 PORTAL.md",
-    "Enrollment/Process/Insights CRM Training.md",
     "2025-10-16.md",
     "FMO Broker/e123 Portal/FMO Contract Storage Process and Guidelines.md",
     "Project Assets/image.png",

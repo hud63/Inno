@@ -210,3 +210,111 @@ Thu, 16 Oct 25
 ---
 
 Chat with meeting transcript: [https://notes.granola.ai/d/3d84ee89-be9d-4381-93b4-47aec95efff4](https://notes.granola.ai/d/3d84ee89-be9d-4381-93b4-47aec95efff4)
+
+
+# CRM Training P. 2
+
+Fri, 17 Oct 25
+
+### System Issues & Current Problems
+
+- Portal experiencing major problems with broker agents
+    
+- Agents unable to log in, applications not processing
+    
+- Verification emails not being sent
+    
+- Developer Cody out sick today, delaying fixes
+    
+- Sherry mentioned campaign call routing issues
+    
+
+### CRM Training Knowledge Base Project
+
+- Building comprehensive standard practices guide for sales users
+    
+- Creating ~40 different process articles with step-by-step instructions
+    
+- Video tutorials planned for each click-through process
+    
+- Targeting new hires and infrequent CRM users
+    
+- Early development stage, interface currently bland but will improve
+    
+
+### Lead Management Process
+
+- Lead record creation requires:
+    
+    - First and last name
+        
+    - Contact information
+        
+    - ZIP code for assignment
+        
+- Assignment based on ZIP code catchment areas
+    
+    - Each outreach specialist owns specific ZIP codes
+        
+    - Auto-assignment can create ownership conflicts
+        
+    - Users trained to manually reassign leads to themselves
+        
+
+### Lead Conversion Workflow
+
+- Discovery call qualification process
+    
+    - Age 55+ verification
+        
+    - Catchment area confirmation
+        
+    - Health status assessment
+        
+    - Housing stability check
+        
+- Required fields must be completed before proceeding
+    
+- Lead converts to contact record type after qualification
+    
+- Generates enrollment forms automatically (functional, financial, HSD approvals)
+    
+
+### Common Support Tickets
+
+- Duplicate detection errors for Social Security numbers and state IDs
+    
+- Lead reassignment requests for ZIP code conflicts
+    
+- Old lead reactivation and ownership transfer
+    
+- Knowledge base articles being created to reduce these tickets
+    
+
+### Contact Record Structure
+
+- Summary tab: basic info, referral source, appointments
+    
+- Discovery/Intake tabs: detailed qualification information
+    
+- Documents/Punch list: required enrollment forms
+    
+- Electronic forms integration with email and mobile signing
+    
+- Connections tab (RevOps use): shows linked forms and status
+    
+
+### Next Steps
+
+- Monday training session scheduled (1-2 PM Pacific)
+    
+- Additional Five9 adapter training planned with Sherry
+    
+- Tony prefers keeping processes within adapter system
+    
+- Continue ServiceNow training sessions
+    
+
+---
+
+Chat with meeting transcript: [https://notes.granola.ai/d/69896755-40d1-464a-a43d-c75e9c7128b9](https://notes.granola.ai/d/69896755-40d1-464a-a43d-c75e9c7128b9)
