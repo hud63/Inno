@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db1496c8a50154fc",
+        "id": "6c982ee484f41184",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9e973b5563a89b",
+            "id": "61bf3fb972f58e28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.17 Implementation Status Update (e123_InnovAge).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10.17 Implementation Status Update (e123_InnovAge)"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 251.5
   },
   "right": {
     "id": "d79310089b65afac",
@@ -162,10 +166,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc4498680fb5ea4e",
+  "active": "61bf3fb972f58e28",
   "lastOpenFiles": [
-    "RevOps/10.17 Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
+    "pptx/scripts/thumbnail.py",
+    "pptx/scripts/rearrange.py",
+    "pptx/scripts/replace.py",
+    "pptx/scripts/inventory.py",
+    "pptx/scripts/html2pptx.js",
+    "pptx/scripts",
+    "pptx/ooxml/scripts/validation/__init__.py",
+    "pptx/ooxml/scripts/validation/redlining.py",
+    "pptx/ooxml/scripts/validation/pptx.py",
+    "pptx/ooxml/scripts/validation/docx.py",
+    "pptx/ooxml/scripts/validation/base.py",
+    "pptx/SKILL.md",
+    "pptx/ooxml.md",
+    "pptx/html2pptx.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.17 Implementation Status Update (e123_InnovAge).md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.17 FMO Sales touchpoint.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 4.md",
+    "RevOps/10.17 Revenue Operations Office Hours.md",
+    "RevOps/10.17 Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 3.md",
     "Terminology/FMO Acronym Cheat Sheet.md",
     "Terminology/Enrollment Acronyms.md",
@@ -177,29 +198,12 @@
     "FMO Broker/e123 Portal/Lead Entry.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.8 - 1573 Broker Portal.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.7 - 1573 Broker Portal.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups",
     "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 2.md",
     "Enrollment/Process/BROKER CALLS IN BUT DIDN'T SUBMIT THEIR APPLICATION (e.g., THE LEAD) VIA E123 PORTAL.md",
     "Enrollment/Process/Insights CRM Training.md",
     "2025-10-16.md",
     "FMO Broker/e123 Portal/FMO Contract Storage Process and Guidelines.md",
-    "RevOps/ServiceNow - SNOW Discussion   A-Rod.md",
-    "FMO Broker/e123 Portal/Q&A.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.15 FMO Broker Portal Training Sheri.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.14 Broker Portal Training Sheri.md",
-    "FMO Broker/e123 Portal/Decision-Making & Issue Resolution Structure.md",
-    "FMO Broker/Initial FMO Trainings/Ron_Sheri Broker Channel Support Call.md",
-    "FMO Broker/e123 Portal/Portal Training",
-    "RevOps",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings",
-    "Broker 2.0/readme",
-    "Broker 2.0/InnovAge-Presentation-FMO-July-2025 (July 7th from RZ).pptx",
-    "Broker 2.0/InnovAge-Broker-Handbook-2025.pdf",
-    "Broker 2.0/InnovAge-Broker-Certification-2026.pdf",
-    "Broker 2.0/InnovAge-BOB-Letter-Meeting.docx",
-    "Broker 2.0/InnovAge Email Templates.docx",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
     "Project Assets/What Is DMAIC_ _ Process News.png",
