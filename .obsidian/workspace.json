@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a21df5abb570fb34",
+        "id": "41baf9f3d3a5d7ea",
         "type": "tabs",
         "children": [
           {
-            "id": "aac7e6797d56645b",
+            "id": "267d9d0e84dab2e4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gemini",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Enrollment Acronyms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Enrollment Acronyms"
+              "title": "Backlinks"
             }
           },
           {
@@ -137,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Enrollment Acronyms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Enrollment Acronyms"
+              "title": "Outline"
             }
           },
           {
@@ -176,8 +174,19 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dc4498680fb5ea4e",
+  "active": "267d9d0e84dab2e4",
   "lastOpenFiles": [
+    "RevOps/10.20 Insight CRM Review.md",
+    "RevOps/10.20 SNOW Training A-Rod.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.20 - 1573 Daily Touchbase.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.20 FMO Product Training.md",
+    "FMO Broker/Initial FMO Trainings/FMO Broker Kit - Promo_Applications.md",
+    "FMO Broker/Report Config/Report Configuration Working Session.md",
+    "FMO Broker/Report Config/Guide_Report Configuration Working Session.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Product Training.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Portal Training.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training.md",
+    "Terminology/Enrollment Acronyms.md",
     "Strategic Initiatives/Example Appt Setting Script (Non-Innovage).md",
     "Strategic Initiatives/Explicit Impact Opportunities Mentioned.md",
     "Strategic Initiatives/High-Impact, Low-Effort Strategies.md",
@@ -194,19 +203,8 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Enrollment/Process/Insights CRM Training.md",
-    "Terminology/Enrollment Acronyms.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.17 Implementation Status Update (e123_InnovAge).md",
-    "Terminology/FMO Acronym Cheat Sheet.md",
     "pptx/scripts/thumbnail.py",
     "pptx/scripts/rearrange.py",
     "pptx/scripts/replace.py",
