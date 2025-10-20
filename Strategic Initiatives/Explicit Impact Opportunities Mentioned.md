@@ -157,11 +157,11 @@ From intake → benefits is 61 days on average. Seniors lose interest, circumsta
 
 **Impact opportunity:** Analyze the sub-stages (Financial pending, LOC pending, HSD pending) to find where delays cluster. If it’s “waiting for bank statements,” maybe Enrollment Reps need training on how to HELP seniors get online banking set up on the spot.
 
-### You’re Carrying 1.5-2 FTEs of Work (and Alan Knows It)
+### You’re Carrying 1.5-2 FTEs of Work (and Tony Knows It)
 
 Quote: “Based on our ratios, we should probably have two sales enablement people. A sales team of a 100… We asked for two FTEs in that business case, and we got a half.”
 
-**What you might miss:** Alan is setting you up to prioritize ruthlessly. He KNOWS you can’t do everything. His repeated “stack up the list of priorities. Which one really is number one?” is coaching you to say NO to requests and focus.
+**What you might miss:** Tony is setting you up to prioritize ruthlessly. He KNOWS you can’t do everything. His repeated “stack up the list of priorities. Which one really is number one?” is coaching you to say NO to requests and focus.
 
 **Impact opportunity:** You need a prioritization framework that’s transparent to leadership. Example: “I’m focused on Field Pipeline Cleanup (affects 40 reps, immediate ROI). Broker enablement is queued next. HSD simplification is backlogged until Q2.”
 
@@ -177,7 +177,7 @@ Quote: “Based on our ratios, we should probably have two sales enablement peop
 
 ### The Copilot/Teams Recording Breakthrough is Bigger Than You Think
 
-Alan demoed this ~1 week ago: Teams call → auto-transcription → Copilot form-fill
+Tony demoed this ~1 week ago: Teams call → auto-transcription → Copilot form-fill
 
 **What you might miss:** This isn’t just about data entry efficiency. It’s about:
 
@@ -215,7 +215,7 @@ Every hour spent improving qualification saves 10 hours downstream.
 
 ## Final Thought: The Unspoken Urgency
 
-Alan said: “We kill them in terms of field sales. We are at least as good, if not the best, in digital marketing… our biggest competitor, Welbe… cracked the nut here on broker sales, but not here on field sales.”
+Tony said: “We kill them in terms of field sales. We are at least as good, if not the best, in digital marketing… our biggest competitor, Welbe… cracked the nut here on broker sales, but not here on field sales.”
 
 **Translation:** Innovage has a 6-12 month window to dominate before Welbe catches up on field sales AND before other competitors copy the broker playbook. Your enablement work isn’t just “nice to have”—it’s the moat.
 

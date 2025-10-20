@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a5e3dd82c4b4da5",
+        "id": "a21df5abb570fb34",
         "type": "tabs",
         "children": [
           {
-            "id": "e84576e68c3b56c7",
+            "id": "aac7e6797d56645b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gemini",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Terminology/Enrollment Acronyms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Enrollment Acronyms"
             }
           },
           {
@@ -136,19 +137,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Terminology/Enrollment Acronyms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Enrollment Acronyms"
+            }
+          },
+          {
+            "id": "f9ff7c35755e6691",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 357.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,11 +172,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e84576e68c3b56c7",
+  "active": "dc4498680fb5ea4e",
   "lastOpenFiles": [
+    "Strategic Initiatives/Example Appt Setting Script (Non-Innovage).md",
+    "Strategic Initiatives/Explicit Impact Opportunities Mentioned.md",
+    "Strategic Initiatives/High-Impact, Low-Effort Strategies.md",
+    "Strategic Initiatives/HIGHEST LEVERAGE OPPORTUNITIES.md",
+    "Strategic Initiatives/10.10 Draft_Inside Sales Playbook 2.0.md",
+    "Enrollment/Process/🧭 Inside Sales Script — InnovAge PACE Program.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.7 - 1573 Broker Portal.md",
+    "FMO Broker/Initial FMO Trainings/10.8 Sheri_Tony Meeting.md",
+    "copilot/copilot-conversations/Take_a_look_at_everything_in_this_note_and_the@20251019_152237.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Enrollment/Process/Insights CRM Training.md",
     "Terminology/Enrollment Acronyms.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.17 Implementation Status Update (e123_InnovAge).md",
@@ -175,30 +214,6 @@
     "pptx/scripts/html2pptx.js",
     "pptx/scripts",
     "pptx/ooxml/scripts/validation/__init__.py",
-    "pptx/ooxml/scripts/validation/redlining.py",
-    "pptx/ooxml/scripts/validation/pptx.py",
-    "pptx/ooxml/scripts/validation/docx.py",
-    "pptx/SKILL.md",
-    "pptx/ooxml.md",
-    "pptx/html2pptx.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.17 FMO Sales touchpoint.md",
-    "FMO Broker/e123 Portal/Portal Training/New Admin Training 4.md",
-    "RevOps/10.17 Revenue Operations Office Hours.md",
-    "RevOps/10.17 Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
-    "FMO Broker/e123 Portal/Portal Training/New Admin Training 3.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.16 - 1573 Broker Portal.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.9 - 1573 Broker Portal.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.14 updates.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Portal Training.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.15 Sheri Teams Call.md",
-    "FMO Broker/e123 Portal/Lead Entry.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.8 - 1573 Broker Portal.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.7 - 1573 Broker Portal.md",
-    "FMO Broker/e123 Portal/Temporary Password Reset Instructions.md",
-    "FMO Broker/e123 Portal/Portal Training/New Admin Training 2.md",
-    "Enrollment/Process/BROKER CALLS IN BUT DIDN'T SUBMIT THEIR APPLICATION (e.g., THE LEAD) VIA E123 PORTAL.md",
-    "2025-10-16.md",
-    "FMO Broker/e123 Portal/FMO Contract Storage Process and Guidelines.md",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
     "Project Assets/What Is DMAIC_ _ Process News.png",
