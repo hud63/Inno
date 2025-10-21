@@ -174,8 +174,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "267d9d0e84dab2e4",
+  "active": "dc4498680fb5ea4e",
   "lastOpenFiles": [
+    "Project Assets/All_Std_PPT-CG Meeting_10.13.20.Self pay and VA scripting.xlsx",
+    "Project Assets/Templates.pptx",
     "RevOps/10.20 Insight CRM Review.md",
     "RevOps/10.20 SNOW Training A-Rod.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.20 - 1573 Daily Touchbase.md",
@@ -202,7 +204,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "pptx/scripts/thumbnail.py",
@@ -211,7 +212,6 @@
     "pptx/scripts/inventory.py",
     "pptx/scripts/html2pptx.js",
     "pptx/scripts",
-    "pptx/ooxml/scripts/validation/__init__.py",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
     "Project Assets/What Is DMAIC_ _ Process News.png",
