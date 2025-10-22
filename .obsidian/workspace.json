@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77f49178ab195e17",
+        "id": "2ac7d46a7ec63a60",
         "type": "tabs",
         "children": [
           {
-            "id": "bab1e125e009d238",
+            "id": "2f0a71207367f411",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bab1e125e009d238",
+  "active": "2f0a71207367f411",
   "lastOpenFiles": [
+    "RevOps/10.22 Insights Lead-Contact Discussion.md",
+    "FMO Broker/Marketing/10.22 Website-UX Improvements.md",
+    "FMO Broker/Report Config/Guide_Report Configuration Working Session.md",
+    "FMO Broker/Marketing",
+    "Data Team/Formulaic Forecast_2025-10-21_v01.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 5.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 4.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Mini-Script - Broker Portal Training.md",
@@ -201,17 +206,12 @@
     "FMO Broker/e123 Portal/Weekly Broker Trainings/10.20 FMO Product Training.md",
     "FMO Broker/Initial FMO Trainings/FMO Broker Kit - Promo_Applications.md",
     "FMO Broker/Report Config/Report Configuration Working Session.md",
-    "FMO Broker/Report Config/Guide_Report Configuration Working Session.md",
-    "Strategic Initiatives/Example Appt Setting Script (Non-Innovage).md",
-    "Strategic Initiatives/Explicit Impact Opportunities Mentioned.md",
-    "Strategic Initiatives/High-Impact, Low-Effort Strategies.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
     "pptx/scripts/thumbnail.py",
     "pptx/scripts/rearrange.py",
     "pptx/scripts/replace.py",
-    "pptx/scripts/inventory.py",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
     "Project Assets/What Is DMAIC_ _ Process News.png",
