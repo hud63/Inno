@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "faf58aa4e767ed72",
+        "id": "410d7f70b46c280d",
         "type": "tabs",
         "children": [
           {
-            "id": "9c739469b0a2493b",
+            "id": "84c66755777d892e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.27 - 1573 InnovAge Hierarchy Discussion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10.27 - 1573 InnovAge Hierarchy Discussion"
             }
           }
         ]
@@ -174,8 +178,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9c739469b0a2493b",
+  "active": "84c66755777d892e",
   "lastOpenFiles": [
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/Untitled 1.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.27 - 1573 InnovAge Hierarchy Discussion.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.23 e123 Issues.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.27 - 1573 InnovAge Daily TouchBase.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Untitled.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Product Training_v2.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Product Training.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Portal Training.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.27 FMO Product Training - Sheri.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.20 FMO Product Training.md",
+    "RevOps/Team Meeting/10.27 Rev Ops Team Meeting.md",
+    "RevOps/Team Meeting",
+    "E123_Video_Cheat_Sheet.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.24 - 1573 InnovAge Daily TouchBase.md",
     "Terminology/FMO Acronym Cheat Sheet.md",
     "FMO Broker/Commissions/Commission Payout Amounts Example.md",
@@ -186,24 +204,11 @@
     "FMO Broker/Commissions/Weekly Touchpoints",
     "FMO Broker/Commissions/Weekly Touchpoints/10.24 Sales touchpoint.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.23 - 1573 InnovAge Daily TouchBase - Thursday.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/Untitled.md",
     "FMO Broker/Commissions/10.24 Test Hierarchy.md",
-    "RevOps/10.24 Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
+    "RevOps/Team Meeting/10.24 Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
     "FMO Broker/Marketing/10.23 Answer to Brokersupport email.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 6.md",
-    "FMO Broker/e123 Portal/Portal Training/New Admin Training 5.md",
-    "RevOps/10.23 Attestation Meeting.md",
-    "FMO Broker/e123 Portal/Portal Training/10.23 Requested Training Agenda.md",
-    "FMO Broker/e123 Portal/Portal Training/10.23 e123 Issues.md",
-    "RevOps/10.22 Insights Lead-Contact Discussion.md",
-    "FMO Broker/Marketing/10.22 Website-UX Improvements.md",
-    "FMO Broker/Report Config/Guide_Report Configuration Working Session.md",
     "FMO Broker/Marketing",
-    "Data Team/Formulaic Forecast_2025-10-21_v01.md",
-    "FMO Broker/e123 Portal/Portal Training/New Admin Training 4.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Mini-Script - Broker Portal Training.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Portal Training.md",
     "Enrollment/Contact Center_Inside Sales",
     "Project Assets/All_Std_PPT-CG Meeting_10.13.20.Self pay and VA scripting.xlsx",
     "Project Assets/Templates.pptx",
@@ -211,7 +216,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "pptx/scripts/thumbnail.py",
-    "pptx/scripts/rearrange.py",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
     "Project Assets/What Is DMAIC_ _ Process News.png",
