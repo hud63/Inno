@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cab772047944e166",
+        "id": "3a842cc83f826274",
         "type": "tabs",
         "children": [
           {
-            "id": "3fb89ddf34163ecd",
+            "id": "a1d2b6e6d4081c25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.28 - 1573 InnovAge Daily TouchBase - Tuesday.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10.28 - 1573 InnovAge Daily TouchBase - Tuesday"
+              "title": "New tab"
             }
           }
         ]
@@ -178,9 +174,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3fb89ddf34163ecd",
+  "active": "a1d2b6e6d4081c25",
   "lastOpenFiles": [
+    "FMO Broker/Marketing/10.29 - e123 Email Walkthrough.md",
+    "FMO Broker/e123 Portal/Portal Training/10.29 - Training with Mitch on E123 and Sharedrives.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training.md",
+    "Enablement/OS_IS_Daily_10.29.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Mini-Script - Broker Portal Training.md",
+    "Enablement/OS Playbook Development - Alejandro Ramirez.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.28 - 1573 InnovAge Daily TouchBase - Tuesday.md",
+    "Project Assets/expired.html",
+    "Project Assets/30days.html",
     "Enablement/OS Playbook Development - Michael Martinez.md",
     "Enablement/Growth Team Leadership Huddle.md",
     "Enablement/Sales Enablement Process Roadmap.md",
@@ -193,9 +197,7 @@
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.27 - 1573 InnovAge Hierarchy Discussion.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/10.28 Broker Portal Training Sheri.md",
     "FMO Broker/Marketing/13 Core ADLs Used for PACE Qualification.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training v2.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Mini-Script - Broker Portal Training.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Portal Training.md",
     "FMO Broker/Marketing/10.28 - continuation of meeting topics on Broker Channel.md",
     "FMO Broker/Marketing/10.22 Website-UX Improvements.md",
@@ -206,16 +208,10 @@
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Untitled.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Product Training_v2.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Product Training.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.27 FMO Product Training - Sheri.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.20 FMO Product Training.md",
-    "RevOps/Team Meeting/10.27 Rev Ops Team Meeting.md",
     "RevOps/Team Meeting",
-    "E123_Video_Cheat_Sheet.md",
     "FMO Broker/Commissions/Weekly Touchpoints",
     "FMO Broker/Marketing",
     "Enrollment/Contact Center_Inside Sales",
-    "Project Assets/All_Std_PPT-CG Meeting_10.13.20.Self pay and VA scripting.xlsx",
-    "Project Assets/Templates.pptx",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
     "Project Assets/What Is DMAIC_ _ Process News.png",
