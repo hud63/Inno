@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "162faf330bfd90c6",
+        "id": "e07b054e5c2867a1",
         "type": "tabs",
         "children": [
           {
-            "id": "436953cf6d709b29",
+            "id": "1e27f00e0a91aea4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Enablement/OS Playbook Development - Jennifer Tremble.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OS Playbook Development - Jennifer Tremble"
             }
           }
         ]
@@ -174,8 +178,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "436953cf6d709b29",
+  "active": "1e27f00e0a91aea4",
   "lastOpenFiles": [
+    "Enablement/OS Playbook Development - Jennifer Tremble.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.31 - Implementation Status Update (e123-InnovAge).md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/10.31 - FMO Broker sales touchpoint.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/10.14 updates.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Untitled.md",
+    "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/10.17 FMO Sales touchpoint.md",
+    "RevOps/Team Meeting/10.31 - Weekly Review of Enrollment Projects + Plans to Meet-Exceed Budget.md",
+    "Enrollment/Data_Analysis/Enrollment_Data_Analysis_Summary.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.30 - 1573 Daily Standup e123.md",
     "FMO Broker/e123 Portal/Portal Training/New Admin Training 8.md",
     "Project Assets/INN_LogoTag_RGB.png",
@@ -201,18 +214,9 @@
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.27 - 1573 InnovAge Hierarchy Discussion.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/10.28 Broker Portal Training Sheri.md",
     "FMO Broker/Marketing/13 Core ADLs Used for PACE Qualification.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training v2.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Portal Training.md",
-    "FMO Broker/Marketing/10.28 - continuation of meeting topics on Broker Channel.md",
-    "FMO Broker/Marketing/10.22 Website-UX Improvements.md",
-    "FMO Broker/Marketing/10.23 Answer to Brokersupport email.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/Untitled 1.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.23 e123 Issues.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.27 - 1573 InnovAge Daily TouchBase.md",
     "RevOps/Team Meeting",
     "FMO Broker/Commissions/Weekly Touchpoints",
     "FMO Broker/Marketing",
-    "Enrollment/Contact Center_Inside Sales",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
     "Project Assets/What Is DMAIC_ _ Process News.png",
