@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a842cc83f826274",
+        "id": "162faf330bfd90c6",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d2b6e6d4081c25",
+            "id": "436953cf6d709b29",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a1d2b6e6d4081c25",
+  "active": "436953cf6d709b29",
   "lastOpenFiles": [
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.30 - 1573 Daily Standup e123.md",
+    "FMO Broker/e123 Portal/Portal Training/New Admin Training 8.md",
+    "Project Assets/INN_LogoTag_RGB.png",
+    "FMO Broker/Marketing/10.30 - e123 Broker Communication platform.md",
     "FMO Broker/Marketing/10.29 - e123 Email Walkthrough.md",
     "FMO Broker/e123 Portal/Portal Training/10.29 - Training with Mitch on E123 and Sharedrives.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - Broker Portal Training.md",
@@ -205,9 +209,6 @@
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/Untitled 1.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.23 e123 Issues.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.27 - 1573 InnovAge Daily TouchBase.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Untitled.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Product Training_v2.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Script - FMO Product Training.md",
     "RevOps/Team Meeting",
     "FMO Broker/Commissions/Weekly Touchpoints",
     "FMO Broker/Marketing",
