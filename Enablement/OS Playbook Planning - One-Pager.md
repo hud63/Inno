@@ -18,7 +18,7 @@
 ## Universal Themes: What All Three Said
 
 ### 1. **Training is Non-Existent**
-- No structured onboarding beyond virtual calls with Glenn/Alan
+- No structured onboarding beyond virtual calls with Glen/Alan
 - No shadowing opportunities ("I had to build my own path from scratch" - Michael)
 - No role-play scenarios or ongoing skill development
 - "Training is basically non-existent. No role plays. No structured onboarding." - Alejandro
@@ -63,7 +63,7 @@
 - **Focus:** Building relationships with adult services, providing updates on enrollees
 - **Environment Change:** Used to sign 5 people at single event, now requires more calls/visits
 - **Observation:** Seniors more wary of scams, requiring trust-building approach
-- **Key Advice:** "Listen to Glenn, have a good mix of referrals, be a resource, do tours"
+- **Key Advice:** "Listen to Glen, have a good mix of referrals, be a resource, do tours"
 
 ---
 
@@ -155,240 +155,22 @@
 
 ---
 
-## Implementation Plan: Content Capture Strategy
+## Implementation Plan
 
-**Core Strategy:** Build the playbook by capturing real training moments and role-play sessions, not writing from scratch.
+**Approach:** Build playbook by capturing real training and role-play sessions, not writing from scratch.
 
----
+### Content Capture Sources
 
-### Track 1: Pennsylvania New Hire Training Capture (Weeks 1-4)
+**1. Pennsylvania Training Recordings**
+- Record Glen's onboarding sessions with new Pennsylvania hires (Eric & Shalom)
+- Capture foundation training, territory setup, field prep, and coaching sessions
+- Transcribe and extract playbook content from Glen's live training
 
-**Target Trainee:** Eric Jorgensen and Shalom Agbanda (new Pennsylvania OS hires)
-**Trainer:** Glenn (Regional Manager)
-
-#### Recording Setup & Logistics
-- [ ] Coordinate with Glenn to record all Pennsylvania onboarding sessions
-- [ ] Set up Teams/Zoom recording permissions with Glenn and trainees
-- [ ] Create shared folder structure for raw recordings (by session topic)
-- [ ] Obtain consent from Eric, Shalom, and Glenn for playbook content use
-
-#### Capture Schedule (4-Week Onboarding)
-- [ ] **Week 1: Foundation Training**
-  - Record PACE/LIFE program overview session
-  - Record Medicare/Medicaid dual-eligible basics training
-  - Record Compliance & CMS marketing guidelines session
-  - Record CRM walkthrough (Insights/Dynamics, Power BI)
-
-- [ ] **Week 2: Territory & Strategy Setup**
-  - Record Glenn's territory planning discussion
-  - Record community vs. medical facility strategy selection
-  - Record account identification process
-  - Record lead management & pipeline setup
-
-- [ ] **Week 3: First Field Prep**
-  - Record role expectations and daily workflow walkthrough
-  - Record objection handling discussion
-  - Record first week field planning session
-  - Record any Q&A sessions Glenn conducts
-
-- [ ] **Week 4: Early Field Feedback**
-  - Record Glenn's debrief after first field week
-  - Record common challenges discussion
-  - Record course corrections or additional guidance
-  - Record any impromptu coaching moments
-
-#### Content Processing Pipeline
-1. **Immediate (Same Day):**
-   - [ ] Upload raw recording to shared drive with naming convention: `[Date]_PA_[Topic]_Glenn_Recording.mp4`
-   - [ ] Generate auto-transcript via Teams/Zoom or Granola.ai
-
-2. **Within 48 Hours:**
-   - [ ] Review transcript for playbook-worthy content
-   - [ ] Tag key moments: [FOUNDATION], [STRATEGY], [OBJECTION_HANDLING], [CRM_WORKFLOW]
-   - [ ] Extract Glenn's "words that work" and specific explanations
-   - [ ] Note any gaps where more detail needed
-
-3. **Weekly Synthesis:**
-   - [ ] Create draft playbook section from week's captured content
-   - [ ] Format as Module 1: Foundation (Week 1), Module 2: Strategy (Week 2), etc.
-   - [ ] Share draft with Glenn for accuracy review
-   - [ ] Identify topics needing supplemental role-play content
-
----
-
-### Track 2: Florida On-Site Role-Play Capture (Week 4-5)
-
-**Location:** Orlando/Tampa, Florida
-**Lead:** Alejandro Ramirez (hospital-focused strategy)
-**Supporting Cast:** Oya Galari/Galatti (Tampa) or Alexander Connell (Orlando)
-
-#### Pre-Visit Preparation
-- [ ] Schedule 2-day on-site visit with Alejandro
-- [ ] Confirm Oya or Alexander availability for role-play sessions
-- [ ] Prepare role-play scenario list based on Alejandro's hospital strategy
-- [ ] Bring recording equipment: phone/tablet with good mic, backup recording device
-- [ ] Create role-play scenario templates for field completion
-
-#### Day 1: Hospital Strategy Deep Dive
-**Morning: Observation & Documentation**
-- [ ] Shadow Alejandro on hospital rounds (2-3 facilities)
-- [ ] Record (audio only) Alejandro's interactions with case managers, social workers
-- [ ] Capture Alejandro's narration of his approach between stops
-- [ ] Document hospital rounding workflow step-by-step
-
-**Afternoon: Structured Interview**
-- [ ] Record 90-minute deep dive on hospital strategy
-- [ ] Walk through his referral funnel process (3-4 weekly referrals)
-- [ ] Document his case manager relationship-building playbook
-- [ ] Capture his doctor engagement techniques
-- [ ] Get specific scripts/talking points he uses
-
-#### Day 2: Role-Play Recording Sessions
-**Setup:** Conference room or quiet office space, 3-5 hours of recording time
-
-**Session 1: Case Manager Role-Play (45 min)**
-- [ ] Alejandro plays OS, Oya/Alexander plays case manager
-- [ ] Scenario 1: Cold introduction at hospital floor (first meeting)
-- [ ] Scenario 2: Follow-up visit building relationship
-- [ ] Scenario 3: Asking for referrals after relationship established
-- [ ] Record full sessions + Alejandro's debrief after each
-
-**Session 2: Doctor/Physician Role-Play (45 min)**
-- [ ] Alejandro plays OS, Oya/Alexander plays physician
-- [ ] Scenario 1: Brief hallway introduction (60 seconds)
-- [ ] Scenario 2: Scheduled meeting to explain PACE program
-- [ ] Scenario 3: Doctor has concerns about patient changing PCP
-- [ ] Record full sessions + Alejandro's debrief after each
-
-**Session 3: Social Worker Role-Play (45 min)**
-- [ ] Alejandro plays OS, Oya/Alexander plays social worker
-- [ ] Scenario 1: Discharge planning discussion
-- [ ] Scenario 2: Social worker has inappropriate patient (too healthy/too sick)
-- [ ] Scenario 3: Building ongoing referral relationship
-- [ ] Record full sessions + Alejandro's debrief after each
-
-**Session 4: Senior/Family Role-Play (45 min)**
-- [ ] Alejandro plays OS, Oya/Alexander plays senior + adult child
-- [ ] Use real objections from 26-tab script:
-  - "Don't want to change PCP"
-  - "Don't want to change HMO/MA"
-  - "Don't want to change home care"
-  - "Medicaid concerns"
-- [ ] Record Alejandro's live objection handling
-- [ ] Capture his thinking process in debrief
-
-**Session 5: Community Strategy Comparison (30 min)**
-- [ ] If Alexander Connell available, record his community-based approach
-- [ ] Compare/contrast with Alejandro's hospital strategy
-- [ ] Identify when to use which approach
-- [ ] Record discussion of territory selection criteria
-
-#### Post-Visit Processing
-- [ ] Same-day upload of all recordings with naming: `[Date]_FL_[Persona]_Roleplay_Alejandro.mp4`
-- [ ] Transcribe all role-play sessions (Granola.ai or Rev.com)
-- [ ] Create role-play script templates from Alejandro's performances
-- [ ] Extract hospital strategy playbook content (Module 2: Option A)
-- [ ] Draft role-play training scenarios for future use (Module 4)
-
----
-
-### Track 3: Playbook Assembly & Iteration (Weeks 5-8)
-
-#### Week 5: First Draft Assembly
-- [ ] Combine Pennsylvania training content (Modules 1-2)
-- [ ] Integrate Florida role-play scripts (Module 4)
-- [ ] Cross-reference with existing 26-tab scripting resource
-- [ ] Create quick reference guides from captured content
-- [ ] Format for mobile-friendly access (iPad/tablet viewing)
-
-#### Week 6: Expert Review Loop
-- [ ] Share draft Modules 1-2 with Glenn for accuracy review
-- [ ] Share draft Module 4 (role-plays) with Alejandro for refinement
-- [ ] Incorporate Michael Martinez's community strategy (Module 2: Option B)
-- [ ] Incorporate Jennifer Tremble's relationship-first approach (Module 2: Option C)
-- [ ] Identify gaps requiring additional capture sessions
-
-#### Week 7: Supplemental Content Capture
-- [ ] Record any missing training topics identified in review
-- [ ] Conduct follow-up calls with Glenn for clarifications
-- [ ] Record additional role-play scenarios based on gap analysis
-- [ ] Capture Oya's hospital strategy if different from Alejandro's
-- [ ] Document Alexander Connell's community approach
-
-#### Week 8: Pilot Ready Version
-- [ ] Finalize Modules 1-4 for pilot testing
-- [ ] Create facilitator guide for delivery
-- [ ] Prepare playbook feedback survey for pilot participants
-- [ ] Package all recordings for on-demand viewing
-- [ ] Set up shared drive access for pilot cohort
-
----
-
-### Track 4: Ongoing Capture & Iteration (Month 3+)
-
-#### Monthly POA Sessions (Alejandro's Recommendation)
-- [ ] Record monthly training sessions for all OS reps
-- [ ] Topics: Medicare/MA updates, account performance, regional success stories
-- [ ] Build ongoing content library from these sessions
-- [ ] Update playbook quarterly based on new captured content
-
-#### Win/Loss Interview Capture
-- [ ] Record monthly interviews with top performers on recent wins
-- [ ] Capture lessons from lost deals or missed enrollments
-- [ ] Add real-world examples to playbook scenarios
-- [ ] Create "war stories" section for peer learning
-
-#### New Hire Onboarding Feedback Loop
-- [ ] Record onboarding experiences of next 3-5 OS hires
-- [ ] Capture questions they ask that aren't in playbook yet
-- [ ] Document stumbling blocks in first 90 days
-- [ ] Iterate playbook based on real gaps exposed
-
----
-
-### Success Metrics for Content Capture Approach
-
-**Content Volume:**
-- Target: 10-15 hours of recorded training content (Pennsylvania)
-- Target: 8-10 hours of recorded role-play scenarios (Florida)
-- Target: 20+ specific scripts/talking points extracted
-- Target: 100+ page playbook assembled from captured content
-
-**Content Quality:**
-- Glenn approval rating on accuracy: >95%
-- Alejandro approval rating on role-plays: >90%
-- Pilot cohort playbook usefulness rating: >4.0/5.0
-- % of new hire questions answered by playbook: >80%
-
-**Speed to Value:**
-- Module 1 draft: Within 2 weeks of Pennsylvania Week 1 completion
-- Module 2-4 drafts: Within 1 week of Florida visit completion
-- Full pilot-ready playbook: 8 weeks from start of Pennsylvania training
-- 50% faster than traditional "write from scratch" approach
-
----
-
-### Key Stakeholder Coordination
-
-**Glenn (Regional Manager)**
-- Approve recording of Pennsylvania training sessions
-- Review and validate all captured content for accuracy
-- Co-present pilot playbook to leadership for approval
-
-**Alejandro Ramirez**
-- Lead Florida role-play capture sessions
-- Review and refine all hospital-strategy content
-- Serve as ongoing training consultant
-
-**Eric & Shalom (Pennsylvania New Hires)**
-- Provide consent for recording and playbook use
-- Give feedback on which training moments most valuable
-- Participate in pilot testing of completed playbook
-
-**Oya Galari/Alexander Connell (Florida OS Agents)**
-- Participate in role-play recording sessions
-- Provide alternative strategy perspectives
-- Review relevant playbook sections for accuracy
+**2. Florida On-Site Role-Play Sessions**
+- Visit Florida to record Alejandro's hospital strategy in action
+- Conduct role-play scenarios: Case Manager, Doctor, Social Worker, Senior/Family objection handling
+- Alejandro plays OS, partner OS plays various personas
+- Transcribe sessions and build role-play training modules from recordings
 
 ---
 
@@ -423,7 +205,7 @@
 
 **Jennifer Tremble** - 4-year veteran with relationship expertise, can mentor on adult services strategy
 
-**Glenn** - Regional manager, well-respected by all three agents, key stakeholder for training approval and rollout
+**Glen** - Regional manager, well-respected by all three agents, key stakeholder for training approval and rollout
 
 ---
 
